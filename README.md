@@ -1,4 +1,4 @@
-## Olá, Eu sou o Sergio!
+## Hi Guys!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  <div>
   <a href="https://github.com/sergiojrr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergiojrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
