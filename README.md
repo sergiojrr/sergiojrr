@@ -1,11 +1,11 @@
 
 ## Intro
 - 👋 Hi, I’m @soaresinfosec
-- ⚛️💻 I’m interested in tech, development and hacking (:
-- 👾👩🏻‍💻 My main goal is to become an Exploit Developer and find some critical bugs
+- ⚛️💻 I’m interested in tech, development web and software (:
+- 👾👩🏻‍💻 My main goal is to become an Developer Web and Software
 
 ### Knowledge n Study
-🕵🏻‍♀️ Cyberdefense (course)
+🕵🏻‍♀️ Full-Stack Web Developer (course)
 
 💻 Operating Systems
 
