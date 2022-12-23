@@ -1,6 +1,6 @@
 
 ## Intro
-- 👋 Hi, I’m @soaresinfosec
+- 👋 Hi, I’m @sergiojrw
 - ⚛️💻 I’m interested in tech, development web and software (:
 - 👾👩🏻‍💻 My main goal is to become an Developer Web and Software
 
