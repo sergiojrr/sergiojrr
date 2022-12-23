@@ -5,7 +5,7 @@
 - 👾👩🏻‍💻 My main goal is to become an Developer Web and Software Engineer
 
 ### Knowledge n Study
-🕵🏻‍♀️ Full-Stack Web Developer (course)
+🕵🏻‍♀️ Full-Stack Web Developer and Software  Enginner (course)
 
 💻 Operating Systems
 
